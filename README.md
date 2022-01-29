@@ -2,7 +2,9 @@
 Example of a simple SSI issuer for the Talao wallet
 
 Install Flask, Redis
-Install didkit see https://github.com/spruceid/didkit/tree/main/examples/python-flask
+
+Install didkit https://pypi.org/project/didkit/0.0.2/
+
 
 The verifiable credential is in a JSON-LD format
 
